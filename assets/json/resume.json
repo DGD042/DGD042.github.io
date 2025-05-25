@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Daniel Gonzalez-Duque",
+    "label": "Post Doctoral Scholar",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gonzalezduque.1@osu.edu",
+    "url": "https://dgd042.github.io/",
+    "summary": "My research is centered on investigating the movement of water through Earth's systems and its impact on transport and biogeochemical reactions of chemical constituents that influence ecosystems and communities. To achieve this, I utilize numerical models, data consolidation and analysis, and statistical methods within high-performance computing environments to assess hydrologic ecosystems. My key research interests encompass surface water-groundwater interactions, groundwater hydrology, physical hydrology, geophysics, geostatistics, climatology, and meteorology.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "155 South Oval Mall, Office 010A",
+      "city": "Columbus",
+      "postalCode": "OH 43201",
       "countryCode": "US",
-      "region": "California"
+      "region": "Ohio"
     },
     "profiles": [
       {

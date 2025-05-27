@@ -1,3 +1,3 @@
-# Daniel Gonzalez-Duque Website
+# Daniel Gonzalez-Duque
 
 Personal website

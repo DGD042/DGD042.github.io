@@ -1,17 +1,16 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://earthsciences.osu.edu/people/gonzalezduque.1'> Post Doctoral Scholar at The Ohio State University</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: about_me_picture.jpeg # your profile picture
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Water Doctor</p>
+    <p><a href="mailto:gonzalezduque.1@osu.edu">gonzalezduque.1@osu.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research is centered on investigating the movement of water through Earth's systems and its impact on transport and biogeochemical reactions of chemical constituents that influence ecosystems and communities. To achieve this, I utilize numerical models, data consolidation and analysis, and statistical methods within high-performance computing environments to assess hydrologic ecosystems. My key research interests encompass surface water-groundwater interactions, groundwater hydrology, coastal hydrology, geophysics, geostatistics, climatology, and meteorology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## Research Interests
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Surface water-groundwater interactions**: Understanding nutrient and contaminant dynamics between surface water and groundwater systems, including their feedback mechanisms and implications for water resources management.
+- **Groundwater hydrology**: Investigating the movement and quality of groundwater, including aquifer recharge, discharge, and contamination processes.
+- **Geophysics**: Applying geophysical techniques to study subsurface structures and processes, enhancing our understanding of the nested nature of mountain hydrological systems.
+- **Coastal Hydrology**: Examining the interactions between coastal waters and groundwater, including the effects of sea-level rise and saltwater intrusion on freshwater resources.

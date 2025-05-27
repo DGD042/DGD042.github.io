@@ -12,145 +12,123 @@
       "postalCode": "OH 43201",
       "countryCode": "US",
       "region": "Ohio"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "School of Earth Sciences, The Ohio State University",
+      "position": "Post Doctoral Scholar",
+      "url": "https://earthsciences.osu.edu/people/gonzalezduque.1",
+      "startDate": "2024-05-20",
+      "endDate": "Present",
+      "summary": "Assessing the impacts of saltwater intrusion processes in urban infrastructure due to sea-level rise induced by a changing climate. Also, I worked in the co-development of noble workflow for assessing risk to subsurface infrastructure in coastal communities in the Boston Area due to sea level rise.", 
+      "highlights": 
+      ["Developing coastal groundwater numerical models using MODFLOW.",
+      "Assessing the uncertainty of model approach in saltwater intrusion processes.",
+      "Participating in the development of the NSF CHIRRP proposal.",
+      "Generating the infrastructure damage risk and cost datasets that will be used in the co-development phase of the project."
+    ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Universidad EIA",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2013-07-01",
+      "endDate": "2015-12-20",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Vanderbilt University",
+      "location": "Nashville, TN, USA",
+      "url": "https://www.vanderbilt.edu/",
+      "area": "Environmental Engineering",
+      "studyType": "Ph.D., Environmental Engineering",
+      "startDate": "2019-01-01",
+      "endDate": "2024-05-10",
+      "score": "4.0/4.0",
+      "courses": [
+        "<b>Dissertation:</b> From Mountains to Bedforms: Multiscale Groundwater Dynamics and its Influence on Solute and Energy Fate and Transport, <b>Advisor:</b> Dr. Jesus Gomez-Velez",
+        "<b>GPA:</b> 4.0/4.0",
+        "<b>Achievements:</b> AGU Horton Research Grant, Carl E. Adams Graduate Award, and three Graduate Travel Awards"
+      ]
+    },
+    {
+      "institution": "Universidad Nacional de Colombia",
+      "location": "Medellín, Colombia",
+      "url": "https://www.udea.edu.co/",
+      "area": "Water Resources",
+      "studyType": "M.Sc., Water Resources",
+      "startDate": "2015-01-26",
+      "endDate": "2019-04-30",
+      "score": "4.7/5.0",
+      "courses": [
+        "<b>Dissertation:</b> Quantification of the Temporal Dynamics of Surface Atmospheric Pressure and Precipitation in Different Biomes and Hydro-climatic Conditions [Translated from Spanish], <b>Advisor:</b> Dr. German Poveda Jaramillo",
+        "<b>GPA:</b> 4.7/5.0",
+        "<b>Achievements:</b> Faculty Scholarship"
+      ]
+    },
+    {
+      "institution": "Universidad EIA",
+      "location": "Envigado, Colombia",
+      "url": "https://www.eia.edu.co/",
+      "area": "Environmental Engineering",
+      "studyType": "Bachelor of Science, Environmental Engineering",
+      "startDate": "2010-01-18",
+      "endDate": "2014-12-11",
+      "score": "4.24/5.0",
+      "courses": [
+        "<b>Thesis:</b> Quantifying Climate Change Exposure of Strategic Ecosystems in the Tropical Andes [Translated from Spanish], <b>Advisor:</b> Dr. Jesus Ruiz-Carrascal",
+        "<b>GPA:</b> 4.24/5.0",
+        "<b>Achievements:</b> Undergraduate honorary mention thesis, Environmental Engineering Scholarship"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "AGU Horton Research Grant",
+      "date": "2022-07-10",
+      "awarder": "American Geophysical Union (AGU)",
+      "url": "https://www.agu.org/honors/horton-grant",
+      "summary": "The Horton Research Grant is awarded to up to three Ph.D. students studying hydrology, water resources, or a closely related field each year and is made possible through the generosity of the Robert E. Horton Fund for Hydrologic Research. The purpose of the award is to promote excellence by encouraging the next generation of professionals in the hydrological sciences."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Summer of Applied Geophysical Experience (SAGE) Program",
+      "date": "2022-07-18",
+      "issuer": "Summer of Applied Geophysical Experience (SAGE)",
+      "url": "https://www.summerofappliedgeophysicalexperience.org/",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Coding",
+      "level": "Proficiency",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "MATLAB"
+      ]
+    },
+
+    {
+      "name": "Groundwater Modeling",
+      "level": "Proficiency",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MODFLOW",
+        "PFLOTRAN",
+        "COMSOL Multiphysics"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -160,40 +138,21 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Audrey H. Sawyer",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "<i>Full Professor, School of Earth Sciences</i><br>The Ohio State University<br>(614) 292-8383 - sawyer.143@osu.edu</p>"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Dr. Jesus Gomez-Velez",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "reference": "<i>Senior Research Scientist, Environmental Science Division</i><br>Oak Ridge National Laboratory (ORNL)<br>(856) 341-2305 - gomezvelezjd@ornl.gov</p>"
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Dr. Mark A. Persion",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "<i>Professor of Hydrology, Earth & Environmental Science</i><br>New Mexico Tech<br>(575) 835-6506 - mark.person@nmt.edu</p>"
     }
   ]
 }

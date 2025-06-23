@@ -9,7 +9,7 @@ last_name: "Gonzalez-Duque, Ph.D."
 contact_note: >
   Contact me via <a href="mailto:gonzalezduque.1@osu.edu">gonzalezduque.1@osu.edu</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  The research website of Daniel Gonzalez-Duque, Ph.D., a postdoctoral researcher at The Ohio State University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

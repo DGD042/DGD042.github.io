@@ -30,6 +30,28 @@
     ]
     },
     {
+      "name": "Vanderbilt University, Department of Civil and Environmental Engineering",
+      "position": "Graduate Research Assistant",
+      "startDate": "2019-01-01",
+      "endDate": "2024-05-10",
+      "summary": "During my graduate studies, I focused on understanding the Critical Zone and the tight coupling of water, energy, and solutes in mountainous terrains. I also, developing a framework to upscale biogeochemical processes in hyporheic exchange zones.", 
+      "highlights": 
+      ["Exploring the nested nature of hydrologic systems in mountainous terrains through developing groundwater flow and transport models and geophysical forward and inverse modeling",
+      "Participating in fieldwork performing Magnetotelluric surveys at Rincon, NM. These measurements are used for deep groundwater exploration",
+      "Assessing the effect of meander geometry and regional groundwater fluxes in the hydrodynamics of sinuosity-driven hyporheic exchange and its impact on biogeochemical processes",
+      "Leveraging the use of the High-Resolution National Hydrography Dataset (NHDPlus High Res) and statistical methods to extract meandering features across the conterminous US",
+      "Developing a Python-based surrogate model-building framework that uses active learning statistical methods to provide surrogate models able to predict the sinuosity-hyporheic exchange characteristics"
+    ]
+    },
+    {
+      "name": "Universidad EIA, EnergEIA Research Group",
+      "position": "EnergEIA Researcher",
+      "startDate": "2017-07-01",
+      "endDate": "2019-12-20",
+      "summary": "In this role, I worked in assessing the solar radiation potential of Colombia and also contributed to the research project ''Reconstruction of late Pleistocene to Holocene glacial flows on the north-western flank of the Ruiz-Tolima volcanic massif, Colombia,'' funded by the EIA University",
+      "highlights": [""]
+    },
+    {
       "name": "Universidad EIA",
       "position": "Undergraduate Research Assistant",
       "startDate": "2013-07-01",

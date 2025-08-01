@@ -17,10 +17,25 @@
   "work": [
     {
       "name": "School of Earth Sciences, The Ohio State University",
+      "position": "Research Scientist",
+      "url": "https://earthsciences.osu.edu/people/gonzalezduque.1",
+      "startDate": "2025-07-28",
+      "endDate": "Present",
+      "summary": "Assessing the impacts of saltwater intrusion processes in urban infrastructure due to sea-level rise induced by a changing climate. Also, I worked in the co-development of noble workflow for assessing risk to subsurface infrastructure in coastal communities in the Boston Area due to sea level rise.", 
+      "highlights": 
+      ["Developing coastal groundwater numerical models using MODFLOW.",
+      "Assessing the uncertainty of model approach in saltwater intrusion processes.",
+      "Generating the infrastructure damage risk and cost datasets that will be used in the co-development phase of the project.",
+      "Development of analytical groundwater transport models for understanding exchange processes of nutrients and radiogenic tracers in submarine groundwater discharge systems",
+      "Exploration and development of novel research proposals"
+    ]
+    },
+    {
+      "name": "School of Earth Sciences, The Ohio State University",
       "position": "Post Doctoral Scholar",
       "url": "https://earthsciences.osu.edu/people/gonzalezduque.1",
       "startDate": "2024-05-20",
-      "endDate": "Present",
+      "endDate": "2025-07-28",
       "summary": "Assessing the impacts of saltwater intrusion processes in urban infrastructure due to sea-level rise induced by a changing climate. Also, I worked in the co-development of noble workflow for assessing risk to subsurface infrastructure in coastal communities in the Boston Area due to sea level rise.", 
       "highlights": 
       ["Developing coastal groundwater numerical models using MODFLOW.",
@@ -49,15 +64,20 @@
       "startDate": "2017-07-01",
       "endDate": "2019-12-20",
       "summary": "In this role, I worked in assessing the solar radiation potential of Colombia and also contributed to the research project ''Reconstruction of late Pleistocene to Holocene glacial flows on the north-western flank of the Ruiz-Tolima volcanic massif, Colombia,'' funded by the EIA University",
-      "highlights": [""]
+      "highlights":
+      ["Supervised the undergraduate thesis ``Evaluation of methodologies for interpolating solar radiation in Colombia'' [translated from Spanish] developed by Diana Patricia Zuluaga Pulgarin. The student graduated with an Environmental Engineering degree and is currently pursuing a Master of Science in Water Resources at the Universidad Nacional de Colombia",
+      "Consolidated and analyzed climatic information from satellite and re-analysis products and meteorological stations across Colombia",
+      "Developed a framework to reconstruct the zero-degree isotherm in the Ruiz-Tolima volcanic massif and in La Sierra Nevada del Cocuy"
+    ]
     },
     {
-      "name": "Universidad EIA",
-      "position": "Undergraduate Research Assistant",
-      "startDate": "2013-07-01",
-      "endDate": "2015-12-20",
-      "summary": "",
-      "highlights": [""]
+      "name": "GOTTA INGENIERIA S.A.S",
+      "position": "Project Consultant",
+      "startDate": "2016-10-01",
+      "endDate": "2017-05-30",
+      "summary": "In this role, I worked as a project consultant in the development of hydrologic models to assess the water avialability in prospective mining exploration areas.",
+      "highlights":
+      ["Consolidated and analyzed hydrologic and climatic information from Reanalysis products, meteorological stations, and stream gauges across Colombia"]
     }
   ],
   "education": [
@@ -143,7 +163,6 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "MODFLOW",
-        "PFLOTRAN",
         "COMSOL Multiphysics"
       ]
     }

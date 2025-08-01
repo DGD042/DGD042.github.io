@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://earthsciences.osu.edu/people/gonzalezduque.1'> Post Doctoral Scholar at The Ohio State University</a>.
+subtitle: <a href='https://earthsciences.osu.edu/people/gonzalezduque.1'> Research Scientist at The Ohio State University</a>.
 
 profile:
   align: right

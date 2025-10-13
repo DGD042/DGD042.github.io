@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated from my PhD.
+I graduated from my PhD in Environmental Engineering at Vanderbilt University!

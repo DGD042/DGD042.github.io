@@ -2,6 +2,8 @@
 layout: default
 permalink: /blog/
 title: Blog
+blog_name: Blog Posts
+blog_description: Aca podrás encontrar ideas de investigación y tutoriales en modelación y programación.
 nav: true
 nav_order: 1
 pagination:

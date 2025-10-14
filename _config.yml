@@ -85,8 +85,6 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog Posts # blog_name will be displayed in your blog page
-blog_description: Here you can find some thoughts, ideas, tutorials, and more.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -338,6 +336,17 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+
+# -----------------------------------------------------------------------------
+# Jekyll Polyglot
+# -----------------------------------------------------------------------------
+
+languages: ["En", "Es"]
+default_lang: "En"
+exclude_from_localization: ["assets"]
+lang_from_path: true
+country_flag: false # set true for allowing flag symbol in language toggle
+parallel_localization: false
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
@@ -624,8 +633,10 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+  - data: resume_en
+    json: assets/json/resume_en.json # it can also be an url
+  - data: resume_es
+    json: assets/json/resume_es.json # it can also be an url
 
 jsonresume:
   - basics

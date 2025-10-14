@@ -9,7 +9,7 @@ profile:
   image: about_me_picture.jpeg # your profile picture
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Water Doctor</p>
+    <p>PhD in Environmental Engineering</p>
     <p><a href="mailto:gonzalezduque.1@osu.edu">gonzalezduque.1@osu.edu</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

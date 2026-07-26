@@ -2,7 +2,7 @@
 layout: about
 title: Acerca
 permalink: /
-subtitle: <a href='https://earthsciences.osu.edu/people/gonzalezduque.1'> Investigador Científico en The Ohio State University</a>.
+subtitle: Investigador Independiente y Profesor de Cátedra en la <a href='https://www.eia.edu.co'> Universidad EIA</a>.
 
 profile:
   align: right

@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD in Environmental Engineering</p>
-    <p><a href="mailto:gonzalezduque.1@osu.edu">gonzalezduque.1@osu.edu</a></p>
+    <p><a href="mailto:daniel.gonzalez17@eia.edu.co">daniel.gonzalez17@eia.edu.co</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -1,3 +1,9 @@
 "gomez-velez":
   - firstname: ["Jesus D.", "Jesus", "J. D.", "Jesus David"]
-    url: https://www.ornl.gov/staff-profile/jesus-gomez-velez
+    url: https://engineering.uiowa.edu/directory/jesus-gomezvelez
+"sawyer":
+  - firstname: ["Audrey H.", "Audrey", "A.", "Audrey Hucks"]
+    url: https://u.osu.edu/sawyer.143/
+"person":
+  - firstname: ["Mark.", "Mark A", "M. A.", "Mark Austin"]
+    url: https://www.nmt.edu/academics/ees/faculty/mperson.php
